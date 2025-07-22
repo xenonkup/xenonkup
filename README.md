@@ -8,7 +8,6 @@ Front-End Developer
 
 * 🌍  I'm based in Ubon ratchathani Thailand
 * ✉️  You can contact me at [korakot.jorralee@gmail.com](mailto:korakot.jorralee@gmail.com)
-* 🧠  I'm learning python html css javscript
 
 <a href="https://www.github.com/xenonkup" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/xenonkup?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
